@@ -19,7 +19,7 @@ namespace EmailAddressExtracor
             hd.Dispose();
 
 
-            // mail extraction process
+            // Mail extraction process
             string inFilePath = path;
             string outFilePath = "C:/Users/L.Hovsepyan/Desktop/MailList.txt";
             MailExtractor.ExtractEmails(inFilePath, outFilePath);
