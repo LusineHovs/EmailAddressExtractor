@@ -45,4 +45,5 @@ public static void ExtractEmails(string inFilePath, string outFilePath)
       File.WriteAllText(outFilePath, s.ToString());
   }
   ```
-  ** Below you can see how does it work**
+ 
+ **Below you can see how does it work**
