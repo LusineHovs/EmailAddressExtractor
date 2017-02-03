@@ -47,3 +47,5 @@ public static void ExtractEmails(string inFilePath, string outFilePath)
   ```
  
  **Below you can see how does it work**
+ 
+ <img src="https://cloud.githubusercontent.com/assets/24455176/22592470/6c1674e4-ea33-11e6-8f7d-c43b7ed59f39.gif" align="left"  />
