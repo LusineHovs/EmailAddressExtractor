@@ -20,7 +20,7 @@ namespace EmailAddressExtracor
         }
 
         public void Save(string url)
-        {
+        {   
             if (url == null)
             {
                 throw new ArgumentNullException(nameof(url));
