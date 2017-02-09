@@ -20,8 +20,7 @@ namespace UsingIDisposable
 
         public void Writing()
         {
-           // string st = ;
-            
+           
             sw.Write("Unmaneged codes have already disposed!");
             sw.Close();
         }
